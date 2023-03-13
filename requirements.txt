@@ -3,3 +3,5 @@ matplotlib
 seaborn
 pandas
 sympy
+ipywidgets
+jupyter_contrib_nbextensions
